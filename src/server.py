@@ -4,10 +4,10 @@ import asyncio
 from telegram import Bot
 
 
-CHAT_ID = "883862112"
+CHAT_ID = ""
 
-NOME_BOT = "trabs_iot_bot"
-API_BOT = "7318715915:AAGv9Hy4oE8PJA1nFKm9XdTft4ARE7Fkf8c"
+NOME_BOT = ""
+API_BOT = ""
 
 
 
