@@ -1,0 +1,32 @@
+[
+    {
+        "placa": "ABC1234",
+        "nome_motorista": "João Silva",
+        "numero_telefone": "+55 11 98765-4321",
+        "rota": "São Paulo - Rio de Janeiro"
+    },
+    {
+        "placa": "XYZ5678",
+        "nome_motorista": "Maria Oliveira",
+        "numero_telefone": "+55 21 91234-5678",
+        "rota": "Rio de Janeiro - Belo Horizonte"
+    },
+    {
+        "placa": "DEF9012",
+        "nome_motorista": "Carlos Souza",
+        "numero_telefone": "+55 31 99876-5432",
+        "rota": "Belo Horizonte - Brasília"
+    },
+    {
+        "placa": "GHI3456",
+        "nome_motorista": "Ana Costa",
+        "numero_telefone": "+55 61 98765-1234",
+        "rota": "Brasília - Salvador"
+    },
+    {
+        "placa": "JKL7890",
+        "nome_motorista": "Pedro Lima",
+        "numero_telefone": "+55 71 91234-5678",
+        "rota": "Salvador - Recife"
+    }
+]

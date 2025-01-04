@@ -1,0 +1,64 @@
+{
+    "empresas_refrigeracao": [
+      {
+        "nome_empresa": "Frio e Conforto",
+        "telefone": "1234-5678",
+        "responsavel": "Carlos Silva",
+        "cidade": "São Paulo"
+      },
+      {
+        "nome_empresa": "Clima Perfeito",
+        "telefone": "2345-6789",
+        "responsavel": "Ana Oliveira",
+        "cidade": "Rio de Janeiro"
+      },
+      {
+        "nome_empresa": "Ar Gelado",
+        "telefone": "3456-7890",
+        "responsavel": "Roberto Santos",
+        "cidade": "Belo Horizonte"
+      },
+      {
+        "nome_empresa": "Refrigeração Polar",
+        "telefone": "4567-8901",
+        "responsavel": "Mariana Costa",
+        "cidade": "Curitiba"
+      },
+      {
+        "nome_empresa": "Geladeira Branca",
+        "telefone": "5678-9012",
+        "responsavel": "Pedro Almeida",
+        "cidade": "Porto Alegre"
+      },
+      {
+        "nome_empresa": "Frio Total",
+        "telefone": "6789-0123",
+        "responsavel": "Juliana Fernandes",
+        "cidade": "Fortaleza"
+      },
+      {
+        "nome_empresa": "Climatização Ideal",
+        "telefone": "7890-1234",
+        "responsavel": "Ricardo Lima",
+        "cidade": "Salvador"
+      },
+      {
+        "nome_empresa": "Ar Condicionado Central",
+        "telefone": "8901-2345",
+        "responsavel": "Fernando Moreira",
+        "cidade": "Brasilia"
+      },
+      {
+        "nome_empresa": "Frio Máximo",
+        "telefone": "9012-3456",
+        "responsavel": "Patrícia Nunes",
+        "cidade": "Recife"
+      },
+      {
+        "nome_empresa": "Refrigeração Ártico",
+        "telefone": "0123-4567",
+        "responsavel": "João Batista",
+        "cidade": "Manaus"
+      }
+    ]
+  }
